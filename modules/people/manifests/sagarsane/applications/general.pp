@@ -7,6 +7,7 @@ class people::sagarsane::applications::general {
 
   include 'adium'
   include 'augeas'
+  include 'alfred'
   include 'caffeine'
   #include 'chrome'
   #include 'cloudapp'

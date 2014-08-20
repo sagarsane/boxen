@@ -66,6 +66,7 @@ github "puppet-property_list_key", "~> 0.2", :repo => "glarizza/puppet-property_
 ##
 github "adium",          "~> 1.3"
 github "augeas",         "~> 1.3"
+github "alfred",         "~> 1.2"
 github "caffeine",       "~> 1.0"
 github "calibre",        "~> 3.1"
 github "chrome",         "~> 1.1"
